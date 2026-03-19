@@ -1,4 +1,4 @@
-# Equipo 0X - Nombre del curso
+# Equipo 05 - Fundamentos de Diseño
 ### Carrera de Ingeniería Ambiental / Informática / Industrial  
 **Universidad Peruana Cayetano Heredia**
 
