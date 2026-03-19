@@ -32,7 +32,11 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Gabriel Helaman Paredes Diaz** | Responsable de investigación | Gestión ambiental, desarrollo urbanismo, servicio comunitario |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Reynaldo Ulises Jimenez Gamboa** | Diseñador/a | Aprender el uso de redes sociales y sistemas de programación |
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Erick Joel Castillo Silva** | Encargado/a de documentación | Comunicación científica, redacción técnica, comprensibilidad, escucha activa |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Cesar Rodrigo Milla Gomez** | Programador - Modelador | Programación, análisis de datos, simulación |
+<<<<<<< HEAD
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Cesar Rodrigo Milla Gomez** | Programador | Programación y diseño de datos |
+=======
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Gabriela Quispe Muñoz** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+>>>>>>> 6b68a048b33ecac062a7f4405f1206db1a06998f
 
 ---
 
