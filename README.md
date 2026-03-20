@@ -18,7 +18,6 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 - ODS 12: Producción y consumo responsable 
 - ODS 13: Acción por el Clima
 
-======
 Elegimos los ODS 6 (Agua limpia y saneamiento), 12 (Producción y consumo responsable) y 13 (Acción por el clima) porque están profundamente interconectados y representan algunos de los desafíos más urgentes a nivel global y local. El acceso al agua segura no solo es un derecho básico, sino que también depende de prácticas responsables de consumo y de la protección del medio ambiente. A su vez, el cambio climático agrava la escasez de agua y afecta directamente los sistemas de producción.
   
 ---
@@ -35,13 +34,11 @@ Elegimos los ODS 6 (Agua limpia y saneamiento), 12 (Producción y consumo respon
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **LI** | Líder del equipo | Innovación social, sostenibilidad |
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Gabriel Helaman Paredes Diaz** | Responsable de investigación | Gestión ambiental, desarrollo urbanismo, servicio comunitario |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Reynaldo Ulises Jimenez Gamboa** | Diseñador/a | Aprender el uso de redes sociales y sistemas de programación |
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Erick Joel Castillo Silva** | Encargado/a de documentación | Comunicación científica, redacción técnica, comprensibilidad, escucha activa |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Cesar Rodrigo Milla Gomez** | Programador - Modelador | Programación y diseñador |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Gabriela Quispe Muñoz** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
-=======
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Gabriela Quispe Muñoz** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |  
 ---
 
 ## 📌 Resumen Final  
