@@ -32,7 +32,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Reynaldo Ulises Jimenez Gamboa** | Futbolista | Aprender el uso de redes sociales y sistemas de programación |
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Erick Joel Castillo Silva** | Encargado/a de documentación | Comunicación científica, redacción técnica, comprensibilidad, escucha activa |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Cesar Rodrigo Milla Gomez** | Programador | Programación y diseñador |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Gabriela Quispe Muñoz** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Gabriela Quispe Muñoz** | Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
