@@ -43,3 +43,4 @@ Elegimos los ODS 6 (Agua limpia y saneamiento), 12 (Producción y consumo respon
 
 ## 📌 Resumen Final  
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
+.
