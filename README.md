@@ -13,6 +13,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 - ODS 12: Producción y consumo responsable 
 - ODS 13: Acción por el Clima
 
+Elegimos los ODS 6 (Agua limpia y saneamiento), 12 (Producción y consumo responsable) y 13 (Acción por el clima) porque están profundamente interconectados y representan algunos de los desafíos más urgentes a nivel global y local. El acceso al agua segura no solo es un derecho básico, sino que también depende de prácticas responsables de consumo y de la protección del medio ambiente. A su vez, el cambio climático agrava la escasez de agua y afecta directamente los sistemas de producción.
   
 ---
 
