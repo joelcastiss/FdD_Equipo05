@@ -3,7 +3,7 @@
 
 # **Universidad Peruana Cayetano Heredia**
 
-<img src="/Recursos/Imágenes/cayetano.jpg" width="300"/>
+<img src="/Recursos/Imágenes/cayetano.jpg" width="500"/>
 
 ---
 
