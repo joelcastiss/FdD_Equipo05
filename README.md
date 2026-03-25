@@ -38,7 +38,7 @@ Elegimos los ODS 6 (Agua limpia y saneamiento), 12 (Producción y consumo respon
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Reynaldo Ulises Jimenez Gamboa** | Diseñador/a | Aprender el uso de redes sociales y sistemas de programación |
 | <img src="/Recursos/Imágenes/integranteJC.png" width="90"/> | **Erick Joel Castillo Silva** | Encargado de comunicación | Leer 📖, ciencia 🧪, innovación 🤖
 | <img src="/Recursos/Imágenes/Foto Cesar Milla.png" width="90"/> | **Cesar Rodrigo Milla Gomez** | Programador - Modelador | Programación y diseñador |
-| <img src="/Recursos/Imágenes/foto gabriela.png" width="90"/> | **Gabriela Quispe Muñoz** | Responsable de investigación  Diseñador/a | Análisis de datos  |  
+| <img src="/Recursos/Imágenes/foto-gabriela.png" width="90"/> | **Gabriela Quispe Muñoz** | Responsable de investigación  Diseñador/a | Análisis de datos  |  
 ---
 
 ## 📌 Resumen Final  
