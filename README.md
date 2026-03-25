@@ -16,7 +16,7 @@ Somos el **Equipo 5** del curso **Fundamentos de Diseño 2026-1**, conformado po
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**   
-- ODS 6: Agua Limpia y Saneamiento
+- ODS 11: Agua Limpia y Saneamiento
 - ODS 12: Producción y consumo responsable 
 - ODS 13: Acción por el Clima
 
