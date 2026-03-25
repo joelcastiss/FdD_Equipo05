@@ -1,10 +1,10 @@
 # Equipo 05 - Fundamentos de Diseño
 ### Carrera de Ingeniería Ambiental / Informática / Industrial  
-=======
+<img src="/Recursos/Imágenes/UPCH FIRMA.gif" width="120"/>
 ### Carrera de Ingeniería Informática / Industrial  
 **Universidad Peruana Cayetano Heredia**
-
 ---
+
 
 ## 🌍 Descripción del Equipo  
 Somos el **Equipo 05** del curso **Fundamentos de Diseño 2026-1**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
