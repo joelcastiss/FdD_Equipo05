@@ -26,14 +26,13 @@ Prototipo: Sistema de reciclaje inteligente para espacios publicos.
 Creación de un prototipo de contenedor inteligente para espacios públicos. Este prototipo esta compuesto por sensores que detecten el tipo de material arrojado y lo clasifiquen automáticamente (plástico, vidrio, metal, etc.). Además, podría contener una pequeña pantalla en la que informe en tiempo real la cantidad de materiales reciclados y el estado de los contenedores
           
 - ODS 12: Producción y consumo responsable 
-prototipo: Dispositivo de Medición de Consumo Energético en el Hogar.
-Creación de un dispositivo de medición inteligente de consumo energético para hogares, que permita a los usuarios monitorear y controlar su consumo eléctrico en tiempo real.
+prototipo: Prototivo que analiza la caducidad del alimento y avisa al usuario la cantidad restante para consumirlo.
+El prototipo consistiría en un dispositivo inteligente que utiliza sensores de calidad para monitorear la frescura de los alimentos, en especial frutas y verduras. Este sistema alertaría al usuario cuando los productos están cerca de su punto de deterioro y les indicaría el tiempo restante para consumirlos antes de que se echen a perder.
 
 - ODS 13: Acción por el Clima
 Prototipo: Sistema de Monitoreo de Calidad del Aire en espacios pequeños.
 Creación de un prototipo el cual monitore la calidad del aire utilizando sensores , como el sensor de partículas PM2.5, CO2 y NO2.
 
-Elegimos los ODS 6 (Agua limpia y saneamiento), 12 (Producción y consumo responsable) y 13 (Acción por el clima) porque están profundamente interconectados y representan algunos de los desafíos más urgentes a nivel global y local. El acceso al agua segura no solo es un derecho básico, sino que también depende de prácticas responsables de consumo y de la protección del medio ambiente. A su vez, el cambio climático agrava la escasez de agua y afecta directamente los sistemas de producción.
   
 ---
 
@@ -50,10 +49,10 @@ Elegimos los ODS 6 (Agua limpia y saneamiento), 12 (Producción y consumo respon
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
 | <img src="/Recursos/Imágenes/Gabriel_Paredes_Diaz.png" width="90"/> | **Gabriel Helaman Paredes Diaz** | Responsable de investigación | Seguridad ocupacional, Analisis de datos, servicio comunitario |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Reynaldo Ulises Jimenez Gamboa** | Diseñador/a | Aprender el uso de redes sociales y sistemas de programación |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Reynaldo Ulises Jimenez Gamboa** | Diseñador | Aprender el uso de redes sociales y sistemas de programación |
 | <img src="/Recursos/Imágenes/integranteJC.png" width="90"/> | **Erick Joel Castillo Silva** | Encargado de comunicación | Leer 📖, ciencia 🧪, innovación 🤖
 | <img src="/Recursos/Imágenes/Foto Cesar Milla.png" width="90"/> | **Cesar Rodrigo Milla Gomez** | Programador - Modelador | Programación y diseñador |
-| <img src="/Recursos/Imágenes/foto-gabriela.png" width="90"/> | **Gabriela Quispe Muñoz** | Responsable de investigación  Diseñador/a | Análisis de datos  |  
+| <img src="/Recursos/Imágenes/foto-gabriela.png" width="90"/> | **Gabriela Quispe Muñoz** | Responsable de investigación  Diseñadora | Análisis de datos  |  
 ---
 
 ## 📌 Resumen Final  
