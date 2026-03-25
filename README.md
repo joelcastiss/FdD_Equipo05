@@ -1,7 +1,7 @@
 # Equipo 05 - Fundamentos de Diseño
-### Carrera de Ingeniería Ambiental / Informática / Industrial  
-<img src="/Recursos/Imágenes/UPCH FIRMA.gif" width="120"/>
-### Carrera de Ingeniería Informática / Industrial  
+### Carrera de Ingeniería  Informática / Industrial  
+<img src="/Recursos/Imágenes/UPCH FIRMA.gif" width="300"/>
+
 **Universidad Peruana Cayetano Heredia**
 ---
 
