@@ -25,7 +25,7 @@ Elegimos estas 3 ODS con el fin de transformar nuestras ciudades, promover un co
 Prototipo: Sistema de reciclaje inteligente para espacios publicos. 
 Creación de un prototipo de contenedor inteligente para espacios públicos. Este prototipo esta compuesto por sensores que detecten el tipo de material arrojado y lo clasifiquen automáticamente (plástico, vidrio, metal, etc.). Además, podría contener una pequeña pantalla en la que informe en tiempo real la cantidad de materiales reciclados y el estado de los contenedores
           
-- ODS 12: Producción y consumo responsable 
+- ODS 12: Producción y consumo responsable.
 prototipo: Sistema de Monitoreo de Caducidad de Alimentos.
 El prototipo consistiría en un dispositivo inteligente que utiliza sensores de calidad para monitorear la frescura de los alimentos, en especial frutas y verduras. Este sistema alertaría al usuario cuando los productos están cerca de su punto de deterioro y les indicaría el tiempo restante para consumirlos antes de que se echen a perder.
 
