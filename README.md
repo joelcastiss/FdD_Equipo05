@@ -19,6 +19,20 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 - ODS 12: Producción y consumo responsable 
 - ODS 13: Acción por el Clima
 
+Elegimos estas 3 ODS con el fin de transformar nuestras ciudades, promover un consumo responsable y enfrentar estas dificultates. A traves de la creación de un prototipo innovador lo cual busca ofrecer soluciones prácticas y accesibles.
+======
+-  ODS 11: Ciudades y Comunidades Sostenibles
+Prototipo: Sistema de reciclaje inteligente para espacios publicos. 
+Creación de un prototipo de contenedor inteligente para espacios públicos. Este prototipo esta compuesto por sensores que detecten el tipo de material arrojado y lo clasifiquen automáticamente (plástico, vidrio, metal, etc.). Además, podría contener una pequeña pantalla en la que informe en tiempo real la cantidad de materiales reciclados y el estado de los contenedores
+          
+- ODS 12: Producción y consumo responsable 
+prototipo: Dispositivo de Medición de Consumo Energético en el Hogar.
+Creación de un dispositivo de medición inteligente de consumo energético para hogares, que permita a los usuarios monitorear y controlar su consumo eléctrico en tiempo real.
+
+- ODS 13: Acción por el Clima
+Prototipo: Sistema de Monitoreo de Calidad del Aire en espacios pequeños.
+Creación de un prototipo el cual monitore la calidad del aire utilizando sensores , como el sensor de partículas PM2.5, CO2 y NO2.
+
 Elegimos los ODS 6 (Agua limpia y saneamiento), 12 (Producción y consumo responsable) y 13 (Acción por el clima) porque están profundamente interconectados y representan algunos de los desafíos más urgentes a nivel global y local. El acceso al agua segura no solo es un derecho básico, sino que también depende de prácticas responsables de consumo y de la protección del medio ambiente. A su vez, el cambio climático agrava la escasez de agua y afecta directamente los sistemas de producción.
   
 ---
