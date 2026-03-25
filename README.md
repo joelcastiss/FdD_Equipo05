@@ -28,8 +28,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Gabriel Helaman Paredes Diaz** | Responsable de investigación | Gestión ambiental, desarrollo urbanismo, servicio comunitario |
+| <img src="/Recursos/Imágenes/Gabriel_Paredes_Diaz.png" width="90"/> | **Gabriel Helaman Paredes Diaz** | Responsable de investigación | Seguridad ocupacional, Analisis de datos, servicio comunitario |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Reynaldo Ulises Jimenez Gamboa** | Diseñador/a | Aprender el uso de redes sociales y sistemas de programación |
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Erick Joel Castillo Silva** | Encargado/a de documentación | Comunicación científica, redacción técnica, comprensibilidad, escucha activa |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Cesar Rodrigo Milla Gomez** | Programador | Programación y diseñador |
