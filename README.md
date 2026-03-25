@@ -22,18 +22,17 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 Elegimos estas 3 ODS con el fin de transformar nuestras ciudades, promover un consumo responsable y enfrentar estas dificultates. A traves de la creación de un prototipo innovador lo cual busca ofrecer soluciones prácticas y accesibles.
 ======
 -  ODS 11: Ciudades y Comunidades Sostenibles
-Prototipo: Sistema de reciclaje inteligente para espacios publicos. 
-Creación de un prototipo de contenedor inteligente para espacios públicos. Este prototipo esta compuesto por sensores que detecten el tipo de material arrojado y lo clasifiquen automáticamente (plástico, vidrio, metal, etc.). Además, podría contener una pequeña pantalla en la que informe en tiempo real la cantidad de materiales reciclados y el estado de los contenedores
+<p>Prototipo: Sistema de reciclaje inteligente para espacios publicos.</p>
+<p>Creación de un prototipo de contenedor inteligente para espacios públicos. Este prototipo esta compuesto por sensores que detecten el tipo de material arrojado y lo clasifiquen automáticamente (plástico, vidrio, metal, etc.). Además, podría contener una pequeña pantalla en la que informe en tiempo real la cantidad de materiales reciclados y el estado de los contenedores</p>
           
 - ODS 12: Producción y consumo responsable.
-prototipo: Sistema de Monitoreo de Caducidad de Alimentos.
-El prototipo consistiría en un dispositivo inteligente que utiliza sensores de calidad para monitorear la frescura de los alimentos, en especial frutas y verduras. Este sistema alertaría al usuario cuando los productos están cerca de su punto de deterioro y les indicaría el tiempo restante para consumirlos antes de que se echen a perder.
+<p>prototipo: Sistema de Monitoreo de Caducidad de Alimentos.</p>
+<p>El prototipo consistiría en un dispositivo inteligente que utiliza sensores de calidad para monitorear la frescura de los alimentos, en especial frutas y verduras. Este sistema alertaría al usuario cuando los productos están cerca de su punto de deterioro y les indicaría el tiempo restante para consumirlos antes de que se echen a perder.</p>
 
 - ODS 13: Acción por el Clima
-Prototipo: Sistema de Monitoreo de Calidad del Aire en espacios pequeños.
-Creación de un prototipo el cual monitore la calidad del aire utilizando sensores , como el sensor de partículas PM2.5, CO2 y NO2.
+<p>Prototipo: Sistema de Monitoreo de Calidad del Aire en espacios pequeños.</p>
+<P>Creación de un prototipo el cual monitore la calidad del aire utilizando sensores , como el sensor de partículas PM2.5, CO2 y NO2.</p>
 
-  
 ---
 
 ## 📸 Fotografía del Equipo  
