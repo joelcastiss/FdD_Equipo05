@@ -10,58 +10,68 @@
 
 ## 🌍 Descripción del Equipo  
 Somos el **Equipo 5** del curso **Fundamentos de Diseño 2026-1**, conformado por estudiantes de la carrera de Ingeniería Informática / Industrial.  
-# 🥬 ECOFRESH: Smart-MiniRefri para la Gestión de Perecederos
-### *Solución tecnológica de diseño circular para el cumplimiento de las ODS 11, 12 y 13*
+# 🥬 ECOFRESH: Smart-MiniRefri para la Gestión Inteligente de Condiciones Ambientales
+### *Solución tecnológica basada en monitoreo ambiental para el cumplimiento de las ODS 11, 12 y 13*
 
 ---
 
 ## 🌎 El Problema: El "Punto Ciego" en la Cocina
-En Lima, el desperdicio de vegetales frescos como la lechuga no es solo un problema de descuido, sino de **falta de datos**. Las refrigeradoras convencionales son "cajas oscuras" donde el alimento se olvida hasta que su degradación es irreversible.
+En Lima, el desperdicio de alimentos no solo se debe al descuido, sino a la **falta de control de las condiciones internas de almacenamiento.**
+Las refrigeradoras convencionales operan como sistemas pasivos, sin monitoreo en tiempo real de variables críticas como temperatura, humedad y calidad del aire, lo que acelera la degradación de los alimentos.
 
 ### ⚠️ Diagnóstico Crítico
-* **Desperdicio Invisible:** El usuario bota comida porque no sabe en qué fase de frescura está (ODS 12).
-* **Impacto Silencioso:** La descomposición orgánica en vertederos genera metano, acelerando el cambio climático (ODS 13).
-* **Ineficiencia Urbana:** Las ciudades pierden recursos hídricos y energéticos invertidos en alimentos que nunca se consumen (ODS 11).
+* **Descontrol Térmico:** Variaciones de temperatura afectan la conservación de alimentos.
+* **Ambiente No Óptimo:** Niveles inadecuados de humedad generan pérdida de frescura o aparición de hongos.
+* **Calidad de Aire Deficiente:** Acumulación de gases (VOC) asociados a descomposición.
+* **Ineficiencia Energética:** Sistemas de enfriamiento sin control inteligente.
 
 ---
 
-## 💡 La Solución: FreshTrack Ecosystem
-Nuestro proyecto no es solo un contenedor; es un **ecosistema inteligente** que le da "voz" a los vegetales.
+## 💡 La Solución: FreshTrack Ecosystem (Enfoque Ambiental)
+Nuestro proyecto propone un sistema inteligente basado en **monitoreo y control de condiciones ambientales internas**, optimizando la conservación de alimentos.
 
-### 1. El Hardware: FreshPod (MiniRefri)
-Un dispositivo de almacenamiento compacto diseñado específicamente para hortalizas de hoja verde.
-* **Control Atmosférico:** Mantiene niveles de humedad del 90-95% para evitar la pérdida de turgencia.
-* **Sensores de Etileno:** Monitorea la emisión de gases que indican el inicio de la senescencia.
-* **Estética Dinámica:** Diseño en blanco y azul glaciar, con acabados translúcidos para visibilidad directa.
+### 1. El Hardware: FreshPod (MiniRefri Inteligente)
+Un sistema compacto que integra sensores y control automático del ambiente interno.
+
+* **Monitoreo de Humedad:** Mantiene niveles óptimos (90–95% para vegetales).
+* **Sensado de Calidad de Aire:** Detección de gases para identificar deterioro ambiental.
+* **Sistema de Refrigeración Activa:** Controlado por ESP32 mediante MOSFET o relé.
+* **Aislamiento Térmico:** Estructura optimizada para eficiencia energética.
 
 ### 2. El Software: FreshTrack App
-Una interfaz diseñada para el usuario moderno que busca eficiencia y sostenibilidad.
-* **Semáforo de Frescura:** Indica mediante colores si el producto está para consumo Crudo (Verde), Cocido (Naranja) o Compost (Rojo).
-* **Alertas de Acción:** Notificaciones push basadas en la curva de vida real del producto.
+Interfaz enfocada en datos ambientales en tiempo real.
+
+* **Panel de Condiciones Internas:** Temperatura, humedad y calidad del aire.
+* **Sistema de Alertas Inteligentes:**
+  * 🔵 Óptimo
+  * 🟡 Riesgo
+  * 🔴 Crítico
+* **Historial de Datos:** Análisis de comportamiento del sistema.
+* **Notificaciones en Tiempo Real:** Cambios en condiciones ambientales.
 
 ---
 
 ## 🧬 Metodología y Desarrollo
-A diferencia de sistemas estáticos, FreshTrack aplica principios de **Transferencia de Masa y Biotecnología**:
+FreshTrack aplica principios de **control de sistemas y monitoreo ambiental:**
 
 | Módulo | Función Técnica | Objetivo de Diseño |
 | :--- | :--- | :--- |
-| **Monitoreo** | Sensores | Traducir biología en datos. |
-| **Preservación** | Controlar datos | Extender la vida útil un 40%. |
-| **Interfaz** | Conectividad Móvil | Eliminar el olvido del usuario. |
+| **Monitoreo** | Sensores ambientales | Obtener datos en tiempo real |
+| **Control** | Sistema de enfriamiento | Mantener condiciones óptimas |
+| **Interfaz** | Conectividad IoT | Visualización y alertas al usuario |
 
 ---
 
 ## 🚀 Alineación Estratégica con ODS
 
 ### 🏙️ ODS 11: Ciudades Sostenibles
-Reducimos la carga de residuos sólidos en Lima. Un hogar FreshTrack genera menos desechos orgánicos, facilitando una gestión urbana más limpia y eficiente.
+Optimización del almacenamiento doméstico reduce desperdicios y mejora la eficiencia urbana.
 
 ### ♻️ ODS 12: Consumo Responsable
-Cambiamos el paradigma del usuario. El "Semáforo de Frescura" educa al consumidor para aprovechar el alimento en su punto máximo, eliminando el desperdicio por duda estética.
+El monitoreo ambiental permite conservar alimentos por más tiempo, reduciendo pérdidas.
 
 ### 🌍 ODS 13: Acción por el Clima
-Menos lechugas en la basura = Menos metano en la atmósfera. Protegemos el agua y la energía "embebida" en la producción agrícola.
+Menor descomposición = menor emisión de gases contaminantes.
 
 ---
 
@@ -72,9 +82,14 @@ Menos lechugas en la basura = Menos metano en la atmósfera. Protegemos el agua 
 ---
 
 ## 🛠️ Herramientas de Desarrollo
+Sistema basado en:
+
 * **Modelado 3D:** [Software usado]
-* **Prototipado App:** [Figma/Canva/Python]
-* **Análisis Económico:** Evaluación de VAN/VAUE para la viabilidad del producto.
+* **ESP32 (controlador principal)**
+* **Sensores:** temperatura, humedad y gases
+* **Módulo Peltier (refrigeración)**
+* **Control electrónico (MOSFET / relé)**
+* **Plataforma IoT para visualización**
 
 ---
 
