@@ -95,8 +95,8 @@ Sistema basado en:
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-<img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/user-attachments/assets/3829718f-51c7-4d00-b262-ef37f178f059" />
-  <em>Figura 1. Fotografía del equipo 0X</em>
+<img width="1408" height="768" alt="imagen_equipo" src="/Recursos/Imágenes/equipo.png" />
+  <em>Figura 1. Fotografía del equipo 05</em>
 </p>
 
 ---
@@ -106,7 +106,7 @@ Sistema basado en:
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
 | <img src="/Recursos/Imágenes/Gabriel_Paredes_Diaz.png" width="90"/> | **Gabriel Helaman Paredes Diaz** | Responsable de investigación | Seguridad ocupacional, Analisis de datos, servicio comunitario |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Reynaldo Ulises Jimenez Gamboa** | Diseñador/a | Aprender el uso de redes sociales y sistemas de programación |
+| <img src="/Recursos/Imágenes/reynaldo_foto.jpeg" width="90"/> | **Reynaldo Ulises Jimenez Gamboa** | Diseñador/a | Aprender el uso de redes sociales y sistemas de programación |
 | <img src="/Recursos/Imágenes/integranteJC.png" width="90"/> | **Erick Joel Castillo Silva** | Encargado de comunicación | Leer 📖, ciencia 🧪, innovación 🤖
 | <img src="/Recursos/Imágenes/Foto Cesar Milla.png" width="90"/> | **Cesar Rodrigo Milla Gomez** | Programador - Modelador | Programación y diseñador |
 | <img src="/Recursos/Imágenes/foto-gabriela.png" width="90"/> | **Gabriela Quispe Muñoz** | Responsable de investigación  Diseñador/a | Análisis de datos  |  
