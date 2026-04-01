@@ -1,5 +1,5 @@
 # Equipo 05 - Fundamentos de Diseño
- Carrera de Ingeniería  Informática / Industrial  
+ Carrera de Ingeniería  Informática / Industrial  - Universidad Peruana Cayetano Heredia
 
 # **ECOFRESH**
 
@@ -46,8 +46,8 @@ A diferencia de sistemas estáticos, FreshTrack aplica principios de **Transfere
 
 | Módulo | Función Técnica | Objetivo de Diseño |
 | :--- | :--- | :--- |
-| **Monitoreo** | Sensores MQ-135 (Etileno) | Traducir biología en datos. |
-| **Preservación** | Nebulización controlada | Extender la vida útil un 40%. |
+| **Monitoreo** | Sensores | Traducir biología en datos. |
+| **Preservación** | Controlar datos | Extender la vida útil un 40%. |
 | **Interfaz** | Conectividad Móvil | Eliminar el olvido del usuario. |
 
 ---
@@ -68,7 +68,6 @@ Menos lechugas en la basura = Menos metano en la atmósfera. Protegemos el agua 
 ## 🎨 Identidad Visual y Prototipado
 > **Nota de Diseño:** Hemos optado por una paleta de colores **Azul Eléctrico y Blanco Puro**, transmitiendo frescura, tecnología y limpieza. El diseño es minimalista y dinámico para encajar en cocinas modernas y departamentos pequeños.
 
-*(Aquí te recomiendo insertar una imagen o captura de tu modelado 3D y el diseño de la App)*
 
 ---
 
