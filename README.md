@@ -73,7 +73,7 @@ El monitoreo ambiental permite conservar alimentos por más tiempo, reduciendo p
 ### 🌍 ODS 13: Acción por el Clima
 <p>Menor descomposición = menor emisión de gases contaminantes. </p>
 
-| <img src="/Recursos/Imágenes/11.webp" width="150"/> | <img src="/Recursos/Imágenes/12.gif" width="150"/> | <img src="/Recursos/Imágenes/13.webp" width="150"/> |
+<img src="/Recursos/Imágenes/11.webp" width="150"/>  <img src="/Recursos/Imágenes/12.gif" width="150"/>  <img src="/Recursos/Imágenes/13.webp" width="150"/> 
 
 ---
 ## 🎨 Identidad Visual y Prototipado
