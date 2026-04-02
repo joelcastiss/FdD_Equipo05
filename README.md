@@ -72,12 +72,11 @@ El monitoreo ambiental permite conservar alimentos por más tiempo, reduciendo p
 
 ### 🌍 ODS 13: Acción por el Clima
 Menor descomposición = menor emisión de gases contaminantes.
+| <img src="11.webp" width="150"/> | <img src="12.gif" width="150"/> | <img src="13.webp" width="150"/> |
 
 ---
-
 ## 🎨 Identidad Visual y Prototipado
 > **Nota de Diseño:** Hemos optado por una paleta de colores **Azul Eléctrico y Blanco Puro**, transmitiendo frescura, tecnología y limpieza. El diseño es minimalista y dinámico para encajar en cocinas modernas y departamentos pequeños.
-
 
 ---
 
