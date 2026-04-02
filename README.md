@@ -71,8 +71,9 @@ Optimización del almacenamiento doméstico reduce desperdicios y mejora la efic
 El monitoreo ambiental permite conservar alimentos por más tiempo, reduciendo pérdidas.
 
 ### 🌍 ODS 13: Acción por el Clima
-Menor descomposición = menor emisión de gases contaminantes.
-| <img src="11.webp" width="150"/> | <img src="12.gif" width="150"/> | <img src="13.webp" width="150"/> |
+<p>Menor descomposición = menor emisión de gases contaminantes. </p>
+
+| <img src="/Recursos/Imágenes/11.webp" width="150"/> | <img src="/Recursos/Imágenes/12.gif" width="150"/> | <img src="/Recursos/Imágenes/13.webp" width="150"/> |
 
 ---
 ## 🎨 Identidad Visual y Prototipado
