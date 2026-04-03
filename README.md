@@ -76,10 +76,6 @@ El monitoreo ambiental permite conservar alimentos por más tiempo, reduciendo p
 <img src="/Recursos/Imágenes/11.webp" width="150"/>  <img src="/Recursos/Imágenes/12.gif" width="150"/>  <img src="/Recursos/Imágenes/13.webp" width="150"/> 
 
 ---
-## 🎨 Identidad Visual y Prototipado
-> **Nota de Diseño:** Hemos optado por una paleta de colores **Azul Eléctrico y Blanco Puro**, transmitiendo frescura, tecnología y limpieza. El diseño es minimalista y dinámico para encajar en cocinas modernas y departamentos pequeños.
-
----
 
 ## 🛠️ Herramientas de Desarrollo
 Sistema basado en:
