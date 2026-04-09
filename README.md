@@ -111,9 +111,7 @@ Sistema basado en:
 ## 📌 Resumen Final  
 El presente README documenta el proceso de diseño y prototipado de ECOFRESH, una solución integral desarrollada para el curso de Fundamentos de Diseño. A diferencia de los sistemas de almacenamiento convencionales, este proyecto introduce un ecosistema inteligente que combina un minirefrigerador de atmósfera controlada con una interfaz móvil predictiva.  
 📚 Referencias
-Para que las referencias de tu lista numerada coincidan perfectamente con el formato visual de la imagen (estilo Vancouver simplificado, con enlaces en azul y estructura específica de entidad, título y lugar), aquí tienes la conversión de tus 10 fuentes:
 
-Referencias
 1. Espinoza-Arellano JDJ, Fabela-Hernández AM, Gaytán-Mascorro A, Reyes González A, Sánchez-Toledano BI. Cuantificación y uso de pérdidas de alimentos: caso del melón cantaloupe en una región del norte-centro de México. Rev Mex Cienc Agríc; 2023.
 https://doi.org/10.29312/remexca.v14i2.2962
 
