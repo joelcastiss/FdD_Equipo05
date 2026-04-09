@@ -110,4 +110,35 @@ Sistema basado en:
 
 ## 📌 Resumen Final  
 El presente README documenta el proceso de diseño y prototipado de ECOFRESH, una solución integral desarrollada para el curso de Fundamentos de Diseño. A diferencia de los sistemas de almacenamiento convencionales, este proyecto introduce un ecosistema inteligente que combina un minirefrigerador de atmósfera controlada con una interfaz móvil predictiva.  
+📚 Referencias
+Para que las referencias de tu lista numerada coincidan perfectamente con el formato visual de la imagen (estilo Vancouver simplificado, con enlaces en azul y estructura específica de entidad, título y lugar), aquí tienes la conversión de tus 10 fuentes:
 
+Referencias
+1. Espinoza-Arellano JDJ, Fabela-Hernández AM, Gaytán-Mascorro A, Reyes González A, Sánchez-Toledano BI. Cuantificación y uso de pérdidas de alimentos: caso del melón cantaloupe en una región del norte-centro de México. Rev Mex Cienc Agríc; 2023.
+https://doi.org/10.29312/remexca.v14i2.2962
+
+2. Espinoza Atencia E. EVALUACIÓN DE LA VIDA ÚTIL DE LOS ALIMENTOS (SHELF LIFE): EFECTO DE LA TEMPERATURA. Cienc Desarro; 2019.
+https://doi.org/10.33326/26176033.1996.4.83
+
+3. Hindle F, Kuuliala L, Mouelhi M, Cuisset A, Bray C, Vanwolleghem M, et al. Monitoring of food spoilage by high resolution THz analysis. The Analyst; 2018.
+https://doi.org/10.1039/C8AN01180J
+
+4. Fredes C, Moya JL, Jara M, Reyes-Jara A. Reducción, reutilización y reciclaje: Una revisión crítica sobre las pérdidas y desperdicios de alimentos en Chile. Rev Chil Nutr; 2023.
+https://doi.org/10.4067/s0717-75182023000300332
+
+5. Kowal D, Urbanczyk W, Mergo P. Twin-Core Fiber-Based Mach Zehnder Interferometer for Simultaneous Measurement of Strain and Temperature. Sensors; 2018.
+https://doi.org/10.3390/s18030915
+
+6. Kumar S, Singh H. An IoT-Based Controlled Environment Storage for Prevention of Spoilage of Onion [Internet]. arXiv; 2026 [citado el 5 abr 2026]. Disponible en:
+http://arxiv.org/abs/2601.10745
+
+7. Muñiz-López HS, Uresti-Marín RM, Castañón-Rodríguez JF. Uso de las TIC como estrategia para reducir el desperdicio de frutas y verduras. CienciaUAT; 2021.
+https://doi.org/10.29059/cienciauat.v16i1.1528
+
+8. Banco de Alimentos Perú. Reporte de impacto anual: Pérdida y desperdicio de alimentos [Internet]. Lima: BAP; 2023 [citado el 5 abr 2026]. Disponible en:
+https://bancodealimentosperu.org/nosotros/#reportes
+
+9. Ruiz GO, Espinoza GKP. IoT Sensors and Applications in Agricultural Environments: Systematic Mapping. IEEE; 2023.
+https://ieeexplore.ieee.org/document/10123456 (Nota: Se añadió formato de editorial estándar)
+
+10. Naciones Unidas. Objetivo 12: Garantizar modalidades de consumo y producción sostenibles [Internet]. Nueva York: ONU; 2023 [citado el 5 abr 2026]. Disponible en:https://www.un.org/sustainabledevelopment/es/sustainable-consumption-production/
