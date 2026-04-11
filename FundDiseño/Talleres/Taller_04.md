@@ -8,6 +8,8 @@
 ### Descripción:
 La patente presenta un sistema inteligente diseñado para evitar el daño por bajas temperaturas en frutas y verduras sensibles al frío, como tomates, brócoli, pimientos o duraznos, durante su almacenamiento y conservación.
 
+![Imagen de la patente 1](/recursos/imganes/patente1.jpg) <!-- Añadir la ruta de la imagen aquí -->
+
 ### Funcionamiento del sistema:
 El sistema está formado por varios módulos que trabajan juntos:
 1. Sensores de **temperatura**, **humedad**, **concentración de CO₂** y **concentración de etileno**.
@@ -22,6 +24,8 @@ El sistema está formado por varios módulos que trabajan juntos:
 ### Ejemplo práctico:
 Se realizó un preenfriamiento a 2 °C durante 50 minutos en tomates, con la consiguiente mejora en la conservación y menor daño por frío.
 
+![Gráfico ejemplo práctico](ruta/a/la/imagen2.jpg) <!-- Añadir la ruta de la imagen aquí -->
+
 ---
 
 ## PATENTE NÚMERO 2
@@ -31,6 +35,8 @@ Se realizó un preenfriamiento a 2 °C durante 50 minutos en tomates, con la con
 
 ### Descripción:
 Un dispositivo de conservación de frutas y verduras en ambientes de baja temperatura que regula temperatura, humedad y ventilación para mantener los productos frescos.
+
+![Imagen de la patente 2](/recursos/imganes/patente2.jpg) <!-- Añadir la ruta de la imagen aquí -->
 
 ### Características:
 - **Sistema de refrigeración** y **tuberías de calentamiento** para evitar el congelamiento.
@@ -50,6 +56,8 @@ Un dispositivo de conservación de frutas y verduras en ambientes de baja temper
 
 ### Descripción:
 Un sistema inteligente de refrigeración y descongelación automática para cámaras frigoríficas de almacenamiento de frutas, diseñado para resolver la formación de escarcha y mejorar la eficiencia energética.
+
+![Imagen de la patente 3](/recursos/imganes/patente3.jpg) <!-- Añadir la ruta de la imagen aquí -->
 
 ### Solución propuesta:
 El sistema utiliza **sensores de temperatura** en la cámara y en la superficie del evaporador, un **ventilador**, una **bomba de agua** y un **controlador central** para gestionar la descongelación y evitar la acumulación de hielo.
