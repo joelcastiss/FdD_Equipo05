@@ -8,7 +8,7 @@
 ### Descripción:
 La patente presenta un sistema inteligente diseñado para evitar el daño por bajas temperaturas en frutas y verduras sensibles al frío, como tomates, brócoli, pimientos o duraznos, durante su almacenamiento y conservación.
 
-![Imagen de la patente 1](/Recursos/imganes/patente1.jpg) <!-- Añadir la ruta de la imagen aquí -->
+![Imagen de la patente 1](/Recursos/Imganes/patente1.jpg) <!-- Añadir la ruta de la imagen aquí -->
 
 ### Funcionamiento del sistema:
 El sistema está formado por varios módulos que trabajan juntos:
