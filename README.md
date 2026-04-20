@@ -71,10 +71,16 @@ Lima es una metrópolis de más de 10 millones de habitantes donde el acceso des
 - <p> Reducción de residuos sólidos: Menos alimentos en mal estado significa menos residuos orgánicos que terminan en rellenos sanitarios, aliviando la infraestructura urbana de gestión de desechos.</p>
 
 ### ♻️ ODS 12: Consumo Responsable
-El monitoreo ambiental permite conservar alimentos por más tiempo, reduciendo pérdidas.
+Este es el ODS más directamente vinculado a ECOFRESH. Según la FAO, aproximadamente un tercio de todos los alimentos producidos en el mundo se desperdician. En el hogar, una causa frecuente es el deterioro por condiciones de almacenamiento inadecuadas.
+
+- <p>Monitoreo en tiempo real como herramienta de consumo consciente: Al visibilizar temperatura, humedad y calidad del aire interno, el sistema convierte al usuario en un agente activo de decisiones. El consumidor ya no actúa de forma reactiva (descubrir que el alimento se descompuso), sino preventiva (recibir una alerta antes de que ocurra el deterioro).</p>
+- <p>Extensión de la vida útil de los alimentos: Mantener rangos óptimos de humedad (90–95% para vegetales frescos) puede prolongar su vida útil entre 2 y 5 días adicionales según estudios de postcosecha, lo que implica directamente menos pérdidas y menos compras innecesarias.</p>
 
 ### 🌍 ODS 13: Acción por el Clima
-<p>Menor descomposición = menor emisión de gases contaminantes. </p>
+<p>El vínculo entre el desperdicio de alimentos y el cambio climático es directo y cuantificable. Cuando los alimentos se descomponen en los hogares o en vertederos, liberan metano (CH₄), un gas de efecto invernadero con un potencial de calentamiento global 28 veces superior al CO₂ en un horizonte de 100 años.</p>
+
+- <p>Reducción de emisiones de metano: Al preservar los alimentos por más tiempo y en mejores condiciones, ECOFRESH contribuye directamente a reducir la descomposición anaeróbica en hogares y vertederos, disminuyendo la emisión de gases de efecto invernadero asociados a residuos orgánicos.</p>
+- <p>Detección de gases VOC como indicador de impacto: La detección temprana de compuestos orgánicos volátiles (VOC) no solo protege la calidad del alimento, sino que funciona como un indicador ambiental que permite actuar antes de que la descomposición avance y libere mayores concentraciones de gases contaminantes. </p>
 
 <img src="/Recursos/Imágenes/11.webp" width="150"/>  <img src="/Recursos/Imágenes/12.gif" width="150"/>  <img src="/Recursos/Imágenes/13.webp" width="150"/> 
 
