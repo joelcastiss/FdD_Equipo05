@@ -65,7 +65,10 @@ FreshTrack aplica principios de **control de sistemas y monitoreo ambiental:**
 ## 🚀 Alineación Estratégica con ODS
 
 ### 🏙️ ODS 11: Ciudades Sostenibles
-Optimización del almacenamiento doméstico reduce desperdicios y mejora la eficiencia urbana.
+Lima es una metrópolis de más de 10 millones de habitantes donde el acceso desigual a tecnologías de conservación de alimentos agrava el desperdicio a nivel doméstico. ECOFRESH contribuye a este ODS de la siguiente manera:
+
+- <p> Optimización del hogar como unidad urbana: Al mejorar las condiciones de almacenamiento en el hogar, se reduce la frecuencia de compra de alimentos, lo que disminuye los traslados, la generación de residuos orgánicos domiciliarios y la presión sobre los sistemas de recolección de basura municipal.</p>
+- <p> Reducción de residuos sólidos: Menos alimentos en mal estado significa menos residuos orgánicos que terminan en rellenos sanitarios, aliviando la infraestructura urbana de gestión de desechos.</p>
 
 ### ♻️ ODS 12: Consumo Responsable
 El monitoreo ambiental permite conservar alimentos por más tiempo, reduciendo pérdidas.
