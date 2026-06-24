@@ -6,6 +6,8 @@
 
 **Universidad Antonio José Camacho — Colombia**
 
+**Autores:** Stivens Bisbicuth Medina, Jorge Armando Quevedo Álvarez y Cristian David Marmolejo Villamizar
+
 ### Descripción
 
 Este proyecto se diseñó con la finalidad de proteger insumos sensibles y productos terminados (como masas, levaduras y productos de repostería) evitando que se deshidraten o se deterioren por cambios bruscos en el ambiente, para así pasar de una supervisión pasiva a un control activo, permitiendo que el entorno se regule por sí mismo de manera automatizada.
@@ -27,6 +29,8 @@ Esta tesis justifica la integración de nuestra **placa Peltier** y los **ventil
 ## Tesis 2: Monitoring of Temperature in Retail Refrigerated Cabinets Applying IoT
 
 **Universidad de Córdoba — España**
+
+**Autores:** José Ramírez-Faz, Luis Manuel Fernández-Ahumada, Elvira Fernández-Ahumada y Rafael López-Luque
 
 ### Descripción
 
