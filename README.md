@@ -100,7 +100,7 @@ Sistema basado en:
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-<img width="1408" height="768" alt="imagen_equipo" src="/Recursos/Imágenes/equipo.png" />
+<img src="/Recursos/Imágenes/fotogrupal.png" alt="Fotografía grupal del equipo elegante" width="1408" height="768" />
   <em>Figura 1. Fotografía del equipo 05</em>
 </p>
 
